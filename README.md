@@ -1,6 +1,6 @@
 # Web-simulation-attack
 
-点击访问[示例站点](https//wafcs.yjggzs.top)
+示例站点：https://wafcs.yjggzs.top
 ### 使用说明
  
 1. **测试地址**  
