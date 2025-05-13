@@ -1,6 +1,10 @@
 # Web-simulation-attack
 
-示例站点：https://wafcs.yjggzs.top
+## ⚠️警告：无论您使用示例站点还是自己创建，本工具攻击都将由您的IP发出，请勿滥用本工具，造成的一切后果全部由您个人承担！
+
+## 示例站点
+https://wafcs.yjggzs.top
+
 ### 使用说明
  
 1. **测试地址**  
